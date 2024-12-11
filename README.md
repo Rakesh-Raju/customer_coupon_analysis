@@ -26,4 +26,4 @@ Steps Taken:
 
 Results:
 
-The project helped uncover valuable insights into customer behavior regarding coupon acceptance. The visualizations offer a deeper understanding of the factors that influence whether customers accept or reject coupons. Additionally, I explored alternate situations to discover how certain factors may influence decision making.
+This project helped uncover valuable insights into customer behavior regarding coupon acceptance. The visualizations offer a deeper understanding of the factors that influence whether customers accept or reject coupons. Additionally, I explored alternate situations to discover how certain factors may influence decision making.
